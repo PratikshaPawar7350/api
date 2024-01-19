@@ -2,5 +2,3 @@
 from="/*"
 to="/.netlify/backend/index/:splat"
 status=200
-[build]
-  command = "npm run build"

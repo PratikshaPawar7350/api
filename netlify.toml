@@ -1,6 +1,4 @@
-
-
 [[redirects]]
   from = "/*"
-  to = "/index.js"
+  to = "/.netlify/functions/index/:splat"
   status = 200

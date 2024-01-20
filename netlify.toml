@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "/index/:splat"
+  to = "/index"
   status = 200

@@ -1,4 +1,2 @@
-[[redirects]]
-  from = "/*"
-  to = "/.netlify/functions/index/:splat"
-  status = 200
+[build]
+  functions = "functions"
